@@ -10,7 +10,7 @@
     "iconUrl": "https://hyperreal.app/icon.png",
     "splashImageUrl": "https://hyperreal.app/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "homeUrl": "https://hyperreal.app",
-    "webhookUrl": "https://api.hyperreal.app/webhook"
+    "homeUrl": "https://app-7c8b56ce-46is.vercel.app",
+    "webhookUrl": "https://app-7c8b56ce-46is.vercel.app/api/webhook"
   }
 }
